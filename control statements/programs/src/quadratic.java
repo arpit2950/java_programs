@@ -1,10 +1,10 @@
 import java.util.*;
 import java.lang.*;
-class quadratic{
+class quadratic {
 
 
     
-  public static void main(String[] Strings) {
+  public static void main(String[]args) {
 
         Scanner input = new Scanner(System.in);
 
