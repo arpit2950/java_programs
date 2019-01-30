@@ -23,7 +23,7 @@ Student(String firstName, String lastName,Qualification qual[], Adress addr,Proj
 
 this.firstName = firstName;
 this.lastName = lastName;
-this.addr = addr;
+this.addr = addr;//doubt
 this.qual = qual;
 this.project = project;
 this.eMail = eMail;
